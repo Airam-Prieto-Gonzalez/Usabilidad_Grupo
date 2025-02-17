@@ -2,7 +2,7 @@
 
 Este repositorio es parte de la asignatura de Usabilidad y Accesibilidad, enfocada en el trabajo con front-end. Aquí colaboramos en diversos proyectos y tareas relacionadas con la mejora de la usabilidad y accesibilidad de aplicaciones web.
 
-## Integrantes del Grupo
+## Integrantes del Grupo-
 
 - **Javier González Brito**
   - Email: alu0101548197@ull.edu.es
